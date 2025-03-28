@@ -1,5 +1,3 @@
-# LeetcodeGrind
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
 |  |
